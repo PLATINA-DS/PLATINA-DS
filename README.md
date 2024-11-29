@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED13F7&width=435&lines=Hey%2C+I'm+Oleksandr+(PLATINA))](https://git.io/typing-svg)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRlbmhpMGRwNXN6N3IxZDhwaW5oeWViOXdlODh1dTBmeW5wNjNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.webp" alt="Tony Stark" align="right" width="300" height="220" frameBorder="0">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRlbmhpMGRwNXN6N3IxZDhwaW5oeWViOXdlODh1dTBmeW5wNjNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.webp" alt="Tony Stark" align="right" width="300" height="200" frameBorder="0">
 
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt= "PLATINA-python" height="60" width="40" src="https://www.svgrepo.com/show/376344/python.svg">      
-  <img align="center" alt= "PLATINA-django" height="60" width="40" src="https://www.svgrepo.com/show/376363/django.svg">    
-  <img align="center" alt= "PLATINA-fastapi" height="60" width="40" src="https://www.svgrepo.com/show/330413/fastapi.svg">       
-  <img align="center" alt= "PLATINA-psql" height="60" width="40" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">       
+  <img align="center" alt= "PLATINA-python" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/Python.svg">      
+  <img align="center" alt= "PLATINA-django" height="60" width="40" src="https://www.svgrepo.com/show/373554/django.svg">    
+  <img align="center" alt= "PLATINA-fastapi" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg">       
+  <img align="center" alt= "PLATINA-psql" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">       
   <img align="center" alt= "PLATINA-mongodb" height="60" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">  
   <img align="center" alt= "PLATINA-pycharm" height="60" width="40" src="https://www.svgrepo.com/show/354237/pycharm.svg">  
 </div><br>
@@ -25,6 +25,6 @@
 ### Contact
 
 <div> 
-  <a href="https://t.me/platina_dev" target="_blank"><img src="https://www.svgrepo.com/show/378466/telegram-fill.svg" target="_blank"></a> 
-  <a href="https://discord.com/users/852934860703531028" target="_blank"><img src="https://www.svgrepo.com/show/452188/discord.svg" target="_blank"></a> 
+  <a href="https://t.me/platina_dev" target="_blank"><img src="https://www.svgrepo.com/show/378466/telegram-fill.svg" height="60" width="40" target="_blank"></a> 
+  <a href="https://discord.com/users/852934860703531028" target="_blank"><img src="https://www.svgrepo.com/show/452188/discord.svg" height="60" width="40" target="_blank"></a> 
 </div>
