@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED13F7&width=435&lines=Hey%2C+I'm+Oleksandr+(PLATINA))](https://git.io/typing-svg)
 
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRlbmhpMGRwNXN6N3IxZDhwaW5oeWViOXdlODh1dTBmeW5wNjNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.webp" alt="Tony Stark" align="right" width="250" height="150" frameBorder="0">
 
 ### Technologies and tools:
 
@@ -17,8 +17,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/PLATINA-DS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=PLATINA-DS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLATINA-DS&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=PLATINA-DS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLATINA-DS&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
     
