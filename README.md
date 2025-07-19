@@ -13,7 +13,7 @@
   <img align="center" alt= "PLATINA-pycharm" height="60" width="40" src="https://www.svgrepo.com/show/354237/pycharm.svg">  
   <img align="center" alt= "PLATINA-numpy" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
   <img align="center" alt= "PLATINA-pandas" height="60" width="40" src="https://www.vhv.rs/dpng/d/442-4429725_python-logo-clipart-easy-transparent-pandas-python-logo.png">  
-  <img align="center" alt= "PLATINA-pycharm" height="60" width="40" src="https://dzh2zima160vx.cloudfront.net/logo/c2779852661322ab66da5dc263e72606_320_160?Expires=1861920000&Signature=r~P65IuHovDEITH8vKhbAvgpsGftasvE8O7kucrixTGLscABGrKrskTxmEnlUqyzmzuCADU9m3a9qIgs8IqB3dM8uPXgr42SkNqQFn1bK5dRSf7vDat3LAxtPWLiFayEo23ITsdN08L4a8hRPAX6luqO6LP71TnARwbEhOzUiyOYGIrCHxeBZPwK3hiVMmbGbY3XC7HSWN9I0~VK15UKxtjhTNYYHJHJIuXhL2WboEcLp4VmMJXx2J11TxaSHqTwcyDNkw0WBAYYXdjK9IJPfJenKkhzy5Afz-Dn-xp~gcJtvORmLa-jPCakDwxnXWvz2zXgt8tyKBm0KhgH0OJpHQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q">  
+  <img align="center" alt= "PLATINA-clickhouse" height="60" width="40" src="https://marketplace-assets.digitalocean.com/logos/clickhouse.svg">  
 </div><br>
 
 ### GitHub Stats
