@@ -1,33 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED13F7&width=435&lines=Hey%2C+I'm+Oleksandr+(PLATINA))](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRlbmhpMGRwNXN6N3IxZDhwaW5oeWViOXdlODh1dTBmeW5wNjNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.webp" alt="Tony Stark" width="220" align="right">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRlbmhpMGRwNXN6N3IxZDhwaW5oeWViOXdlODh1dTBmeW5wNjNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hHxTQkcjmHUTC/giphy.webp" alt="Tony Stark" align="right" width="250" height="150" frameBorder="0">
-
-### Technologies and tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt= "PLATINA-python" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/Python.svg">      
-  <img align="center" alt= "PLATINA-django" height="60" width="40" src="https://www.svgrepo.com/show/373554/django.svg">    
-  <img align="center" alt= "PLATINA-fastapi" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg">       
-  <img align="center" alt= "PLATINA-psql" height="60" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg">       
-  <img align="center" alt= "PLATINA-mongodb" height="60" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">  
-  <img align="center" alt= "PLATINA-pycharm" height="60" width="40" src="https://www.svgrepo.com/show/354237/pycharm.svg">  
-  <img align="center" alt= "PLATINA-numpy" height="60" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
-  <img align="center" alt= "PLATINA-pandas" height="60" width="40" src="https://www.vhv.rs/dpng/d/442-4429725_python-logo-clipart-easy-transparent-pandas-python-logo.png">  
-  <img align="center" alt= "PLATINA-clickhouse" height="60" width="40" src="https://marketplace-assets.digitalocean.com/logos/clickhouse.svg">  
-</div><br>
-
-### GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/PLATINA-DS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLATINA-DS&layout=compact&langs_count=7&theme=one_dark_pro"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=PLATINA-DS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED13F7&width=435&lines=Hey%2C+I'm+Oleksandr+(PLATINA))](https://git.io/typing-svg)
 </div>
-    
+
+<br>
+
+### Technologies and tools
+
+**Programming Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+
+**Backend Frameworks**<br>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+
+**APIs & Protocols**<br>
+<img src="https://img.shields.io/badge/REST_API-0058A9?style=for-the-badge&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white" alt="WebSockets" />
+
+**Databases & Caching**<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+**Data Processing**<br>
+<img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+
+**DevOps & Infrastructure**<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+
+<br>
+
 ### Contact
 
-<div> 
-  <a href="https://t.me/platina_dev" target="_blank"><img src="https://www.svgrepo.com/show/378466/telegram-fill.svg" height="60" width="40" target="_blank"></a> 
-  <a href="https://discord.com/users/852934860703531028" target="_blank"><img src="https://www.svgrepo.com/show/452188/discord.svg" height="60" width="40" target="_blank"></a> 
-</div>
+<p align="left">
+  <a href="https://t.me/platina_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/852934860703531028" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
